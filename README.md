@@ -1,3 +1,3 @@
-# @alanlu-dev/monorepo
+# @alanlu-zyl/monorepo
 
 A monorepo starter template.
